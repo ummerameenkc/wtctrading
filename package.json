@@ -2,7 +2,7 @@
   "name": "backend_project",
   "version": "1.00",
   "description": "backend_project",
-  "main": "index.js",
+  "main": "src/api.js",
   "author": "Programmer Rayhan",
   "license": "MIT",
   "scripts": {
