@@ -1,3 +1,0 @@
-"# wtctrading" 
-# wtc
-"# wtc" 
